@@ -1,5 +1,9 @@
+import NoteList from "./components/NotesList";
+
 const App = () => {
-  return <p>Hello React</p>;
+  return <div className="container">
+    <NoteList />
+  </div>;
 };
 
 export default App;
