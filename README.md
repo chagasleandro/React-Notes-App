@@ -23,7 +23,9 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
  <img alt="CSS3"
       src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
  <img alt="Javascript"
-      src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white"/>  
+      src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white"/>
+ <img alt="REACT-ICONS"
+      src="https://img.shields.io/badge/React-icons-%231572B6.svg?style=for-the-badge&logo=react-icons&logoColor=white"/> 
 ## :wrench: Como Utilizar
 
 Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
