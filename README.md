@@ -32,7 +32,7 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/chagasleandro/Gerador-QRCode
+$ git clone https://github.com/chagasleandro/React-Notes-App
 ```
 
 ## Available Scripts
